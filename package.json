@@ -1,0 +1,23 @@
+{
+  "name": "async-ladding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deply": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoiblanco/async-ladding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoiblanco/async-ladding/issues"
+  },
+  "homepage": "https://github.com/Yoiblanco/async-ladding#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
